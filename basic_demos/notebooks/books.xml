@@ -1,0 +1,56 @@
+<books>
+    <book id="1">
+        <title>The Accursed God</title>
+        <author>Vivek Dutta Mishra</author>
+        <price currency="INR">399</price>
+        <rating>4.6</rating>
+    </book>
+    <book id="2">
+        <title>Rashmirathi</title>
+        <author>Ramdhari Singh Dinkar</author>
+        <price currency="INR">99</price>
+        <rating>4.6</rating>
+    </book>
+    <book id="3">
+        <title>Kuruksehtra</title>
+        <author>Ramdhari Singh Dinkar</author>
+        <price currency="INR">109</price>
+        <rating>4.2</rating>
+    </book>
+    <book id="4">
+        <title>Manas</title>
+        <author>Vivek Dutta Mishra</author>
+        <price currency="INR">199</price>
+        <rating>4.8</rating>
+    </book>
+    <book id="5">
+        <title>Kane And Abel</title>
+        <author>Jeffrey Archer</author>
+        <price currency="GBP">7.5</price>
+        <rating>4.5</rating>
+    </book>
+    <book id="6">
+        <title>Sons of Fortune</title>
+        <author>Jeffrey Archer</author>
+        <price currency="GBP">7.5</price>
+        <rating>3.1</rating>
+    </book>
+    <book id="7">
+        <title>Brethren</title>
+        <author>John Grisham</author>
+        <price currency="USD">3.9</price>
+        <rating>4.1</rating>
+    </book>
+    <book id="8">
+        <title>Summons</title>
+        <author>John Grisham</author>
+        <price currency="USD">3.4</price>
+        <rating>4</rating>
+    </book>
+    <book id="11">
+        <title>The Count of Monte Cristo</title>
+        <author>Alexandre Dumas</author>
+        <price currency="EUR">5</price>
+        <rating>4.9</rating>
+    </book>
+</books>
